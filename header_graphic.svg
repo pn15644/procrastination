@@ -1,0 +1,15 @@
+<svg width="900" height="300" versions="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 300 100">
+
+  <defs>
+    <path id="myPath"
+      d="M10 35 C 40 5, 60 5, 80 35 S 140 65, 180 5"
+      />
+  </defs>
+  <text x="0" y="30" font-family="Super Sans" stroke="black" fill="none">
+    <textPath xlink:href="#myPath">For the glory of procrastination</textPath>
+  </text>
+
+</svg>
